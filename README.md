@@ -1,0 +1,1 @@
+# Potato-Leaf-Disease-Prediction-using-Convolutional-Neural-Networks-and-Transfer-Learning-
